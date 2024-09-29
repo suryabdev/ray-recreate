@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# IDE
+.idea
+.vscode
+build
